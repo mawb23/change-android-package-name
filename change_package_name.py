@@ -15,12 +15,11 @@ def main():
     print('开始更改---', datetime.fromtimestamp(time.time()))
 
     # 旧包名
-    oldStr = 'xxxxxx'
+    oldStr = 'com.test.myapplication'
     # 新包名
-    newStr = 'xxxxxx'
+    newStr = 'com.myapplication'
     # 项目根目录
-    dirPath = 'xxxxxx'
-    # dirPath = '/Users/wb/Desktop/untitled folder/untitled folder 2'
+    dirPath = '/Users/wb/Desktop/MyApplication'
     # 目录下的所有文件
     fileList = listFile(dirPath)
     # 以下文件不修改
