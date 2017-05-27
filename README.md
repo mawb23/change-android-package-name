@@ -73,4 +73,4 @@ python3 change_package_name.py
 
 之后打开 Android studio 发现 包名确实已经更改了，但是左边的文件路径还是原来的，这时候需要对文件夹做手动调整，目前这点还没找到更好的方法。
 
-![image](https://github.com/mawb23/change-android-package-name/pic/build.png)
+![image](https://github.com/mawb23/change-android-package-name/blob/master/pic/build.png)
